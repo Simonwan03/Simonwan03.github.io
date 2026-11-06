@@ -44,18 +44,7 @@ cv:
           - B.A. in French Literature
 
     Research:
-      - title: Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics
-        authors:
-          - Sheng Wan
-          - Pavan Vynatheya
-          - Duo Xu
-          - Kevin Li
-          - Ye Zhu
-        journal: "NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models"
-        publisher: "NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models"
-        date: 2026
-        releaseDate: "2026"
-        url: https://openreview.net/forum?id=qv1Vw0oU7O
+      - bullet: "**Sheng Wan**, Pavan Vynatheya, Duo Xu, Kevin Li, Ye Zhu. [Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics](https://openreview.net/forum?id=qv1Vw0oU7O). NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models, 2026."
 
     Experience:
       - company: Shanghai Luoshu Investment
