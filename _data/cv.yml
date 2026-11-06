@@ -12,6 +12,16 @@ cv:
 
   sections:
     Education:
+      - institution: Shanghai Jiao Tong University
+        location: Shanghai, China
+        url: https://en.sjtu.edu.cn/
+        area: Computer Science
+        studyType: Master's degree (dual degree)
+        start_date: 2026
+        end_date: 2028
+        highlights:
+          - Master's degree in Computer Science (dual degree), expected 2028
+
       - institution: École Polytechnique
         location: Paris, France
         url: https://www.polytechnique.edu/
@@ -32,6 +42,20 @@ cv:
         highlights:
           - B.Eng. in Information Engineering
           - B.A. in French Literature
+
+    Publications:
+      - title: Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics
+        authors:
+          - Sheng Wan
+          - Pavan Vynatheya
+          - Duo Xu
+          - Kevin Li
+          - Ye Zhu
+        journal: "NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models"
+        publisher: "NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models"
+        date: 2026
+        releaseDate: 2026
+        url: https://openreview.net/forum?id=qv1Vw0oU7O
 
     Experience:
       - company: Shanghai Luoshu Investment

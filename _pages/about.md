@@ -8,7 +8,7 @@ profile:
   align: right
   image_circular: false # crops the image to make it circular
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -22,7 +22,7 @@ latest_posts:
 
 I am an engineering student at [École Polytechnique](https://www.polytechnique.edu/), where I am pursuing the Diplôme d'Ingénieur (Master's level) with a major in Applied Mathematics & Computer Science. In parallel, I am pursuing a dual Master's degree in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I also studied Information Engineering (B.Eng.) and French Literature (B.A.).
 
-My recent work focuses on **recommender systems** and **AI for astrophysics**. On the astrophysics side, my paper on a machine-learning benchmark for chaotic three-body dynamics was accepted at the NeurIPS 2026 workshop _Sim2Science: ML with Imperfect Scientific Models_.
+My recent work focuses on **recommender systems** and **AI for astrophysics**. On the astrophysics side, my paper [_Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics_](https://openreview.net/forum?id=qv1Vw0oU7O) was accepted at the NeurIPS 2026 workshop _Sim2Science: ML with Imperfect Scientific Models_.
 
 Along the way, I have gained industry and research experience through internships. At Shanghai Luoshu Investment, I worked as a quantitative research intern on volatility modeling for commodity options and on relative value in Chinese Treasury cash and futures markets. Before that, as a research intern at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), I applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel, to the training of Physics-Informed Neural Networks, and developed an adaptive collocation-point sampling strategy that improved convergence speed and accuracy.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper on a machine-learning benchmark for chaotic three-body dynamics was accepted at the NeurIPS 2026 workshop _Sim2Science: ML with Imperfect Scientific Models_.
+My paper [Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics](https://openreview.net/forum?id=qv1Vw0oU7O) was accepted at the NeurIPS 2026 workshop _Sim2Science: ML with Imperfect Scientific Models_.
