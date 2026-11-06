@@ -1,10 +1,8 @@
 cv:
   name: Sheng Wan
-  label: Engineering Student, Applied Mathematics & Computer Science
   email: sheng.wan@polytechnique.edu
   location: Paris, France
   website: https://simonwan03.github.io
-  image: ""
 
   social_networks:
     - network: LinkedIn
@@ -67,16 +65,24 @@ cv:
 
     Awards:
       - title: China Collegiate Programming Contest (CCPC), Shanghai Region — Silver Prize
+        authors:
+          - "CCPC"
         date: 2022
         awarder: CCPC
 
       - title: National Olympiad in Mathematics in Provinces, Jiangsu — Second Prize
+        authors:
+          - "Jiangsu Province"
         date: 2021
 
       - title: National Olympiad in Physics in Provinces, Jiangsu — Second Prize
+        authors:
+          - "Jiangsu Province"
         date: 2021
 
       - title: National Olympiad in Informatics in Provinces (NOIP), Jiangsu — First Prize
+        authors:
+          - "Jiangsu Province"
         date: 2020
 
     Skills:
