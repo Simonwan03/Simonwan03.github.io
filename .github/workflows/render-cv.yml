@@ -1,14 +1,7 @@
 name: Render a CV
 on:
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - "_data/cv.yml"
-      - "assets/rendercv/design.yaml"
-      - "assets/rendercv/locale.yaml"
-      - "assets/rendercv/settings.yaml"
+  # Automatic PDF rendering on push is disabled: the CV PDF is not published on the site.
+  # Run this workflow manually from the Actions tab if a PDF is needed again.
   workflow_call:
   workflow_dispatch:
 permissions:

@@ -8,7 +8,7 @@ profile:
   align: right
   image_circular: false # crops the image to make it circular
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,3 +27,9 @@ My recent work focuses on **recommender systems** and **AI for astrophysics**. O
 Along the way, I have gained industry and research experience through internships. At Shanghai Luoshu Investment, I worked as a quantitative research intern on volatility modeling for commodity options and on relative value in Chinese Treasury cash and futures markets. Before that, as a research intern at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), I applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel, to the training of Physics-Informed Neural Networks, and developed an adaptive collocation-point sampling strategy that improved convergence speed and accuracy.
 
 I speak Chinese, English and French. Feel free to reach out by email.
+
+<h2>
+  <a href="{{ '/research/' | relative_url }}" style="color: inherit">research</a>
+</h2>
+
+{% include selected_papers.liquid %}
