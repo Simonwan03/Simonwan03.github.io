@@ -6,6 +6,7 @@ subtitle: Engineering student at <a href='https://www.polytechnique.edu/'>École
 
 profile:
   align: right
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
