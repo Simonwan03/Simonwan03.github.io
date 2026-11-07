@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Engineering student at <a href='https://www.polytechnique.edu/'>École Polytechnique</a> · Master's student in Computer Science at <a href='https://en.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>
 
 profile:
   align: right
@@ -21,9 +20,9 @@ latest_posts:
   enabled: false
 ---
 
-I am an engineering student at [École Polytechnique](https://www.polytechnique.edu/), where I am pursuing the Diplôme d'Ingénieur (Master's level) with a major in Applied Mathematics & Computer Science. In parallel, I am pursuing a dual Master's degree in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), where I also studied Information Engineering (B.Eng.) and French Literature (B.A.).
+I am an engineering student at [École Polytechnique](https://www.polytechnique.edu/), where I am pursuing the Diplôme d'Ingénieur (Master's level) with a major in Artificial Intelligence. In parallel, I am pursuing a dual Master's degree in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Previously, I received my bachelor's degrees from Shanghai Jiao Tong University.
 
-My recent work focuses on **recommender systems** and **AI for astrophysics**. On the astrophysics side, my paper [_Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics_](https://openreview.net/forum?id=qv1Vw0oU7O) was accepted at the NeurIPS 2026 workshop _Sim2Science: ML with Imperfect Scientific Models_.
+My recent work focuses on **recommender systems** and **AI for science**. I am supervised by Prof. [Guillaume Salha-Galvan](https://guillaumesalhagalvan.com/) (Shanghai Jiao Tong University) and Prof. [Ye Zhu](https://l-yezhu.github.io/) (École Polytechnique).
 
 Along the way, I have gained industry and research experience through internships. At Shanghai Luoshu Investment, I worked as a quantitative research intern on volatility modeling for commodity options and on relative value in Chinese Treasury cash and futures markets. Before that, as a research intern at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), I applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel, to the training of Physics-Informed Neural Networks, and developed an adaptive collocation-point sampling strategy that improved convergence speed and accuracy.
 
