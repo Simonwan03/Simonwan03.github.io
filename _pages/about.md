@@ -24,7 +24,7 @@ I am an engineering student at [École Polytechnique](https://www.polytechnique.
 
 My recent work focuses on **recommender systems** and **AI for science**. I am supervised by Prof. [Guillaume Salha-Galvan](https://guillaumesalhagalvan.com/) (Shanghai Jiao Tong University) and Prof. [Ye Zhu](https://l-yezhu.github.io/) (École Polytechnique).
 
-Along the way, I have gained industry and research experience through internships. At Shanghai Luoshu Investment, I worked as a quantitative research intern on volatility modeling for commodity options and on relative value in Chinese Treasury cash and futures markets. Before that, as a research intern at [Inria Saclay](https://www.inria.fr/en/inria-saclay-centre), I applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel, to the training of Physics-Informed Neural Networks, and developed an adaptive collocation-point sampling strategy that improved convergence speed and accuracy.
+Along the way, I have gained industry and research experience through internships. At Shanghai Luoshu Investment, I worked as a quantitative research intern on volatility modeling for commodity options and on Chinese government bonds. Before that, as a research intern at [LISN](https://www.universite-paris-saclay.fr/laboratoires/laboratoire-interdisciplinaire-des-sciences-du-numerique-lisn) (Université Paris-Saclay & Inria), I applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel, to the training of Physics-Informed Neural Networks.
 
 I speak Chinese, English and French. Feel free to reach out by email.
 
