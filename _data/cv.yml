@@ -76,25 +76,28 @@ cv:
           - "Database optimization: resolved SQL pagination issues and optimized queries, improving data retrieval reliability and performance."
 
     Awards:
-      - title: China Collegiate Programming Contest (CCPC), Shanghai Region — Silver Prize
+      - title: China Collegiate Programming Contest (CCPC), Shanghai Region
+        awarder: Silver Prize
         authors:
-          - "CCPC"
+          - "Silver Prize"
         date: 2022
-        awarder: CCPC
 
-      - title: National Olympiad in Mathematics in Provinces, Jiangsu — Second Prize
+      - title: National Olympiad in Mathematics in Provinces, Jiangsu
+        awarder: Second Prize
         authors:
-          - "Jiangsu Province"
+          - "Second Prize"
         date: 2021
 
-      - title: National Olympiad in Physics in Provinces, Jiangsu — Second Prize
+      - title: National Olympiad in Physics in Provinces, Jiangsu
+        awarder: Second Prize
         authors:
-          - "Jiangsu Province"
+          - "Second Prize"
         date: 2021
 
-      - title: National Olympiad in Informatics in Provinces (NOIP), Jiangsu — First Prize
+      - title: National Olympiad in Informatics in Provinces (NOIP), Jiangsu
+        awarder: First Prize
         authors:
-          - "Jiangsu Province"
+          - "First Prize"
         date: 2020
 
     Skills:
