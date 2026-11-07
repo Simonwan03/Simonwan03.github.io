@@ -14,37 +14,26 @@ cv:
     Education:
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
-        url: https://en.sjtu.edu.cn/
-        area: Computer Science
-        studyType: Master's degree (dual degree)
+        studyType: Master's Degree in Computer Science
+        area: Dual Degree Program with École Polytechnique
         start_date: 2026
         end_date: 2028
-        highlights:
-          - Master's degree in Computer Science (dual degree), expected 2028
 
       - institution: École Polytechnique
         location: Paris, France
-        url: https://www.polytechnique.edu/
-        area: Applied Mathematics & Computer Science
-        studyType: Diplôme d'Ingénieur (Master's level)
+        studyType: Diplôme d'Ingénieur (Master's Level)
+        area: Major in Artificial Intelligence
         start_date: 2024
         end_date: 2027
-        highlights:
-          - Diplôme d'Ingénieur (Master's level), expected 2027
 
       - institution: Shanghai Jiao Tong University
         location: Shanghai, China
-        url: https://en.sjtu.edu.cn/
-        area: Information Engineering; French Literature
-        studyType: B.Eng. & B.A.
+        studyType: B.Eng. in Information Engineering & B.A. in French Literature
         start_date: 2022
         end_date: 2026
-        highlights:
-          - B.Eng. in Information Engineering
-          - B.A. in French Literature
 
     Research:
-      - bullet: "**Sheng Wan**, Pavan Vynatheya, Duo Xu, Kevin Li, Ye Zhu. [Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics](https://openreview.net/forum?id=qv1Vw0oU7O). NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models, 2026."
+      - bullet: "**Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics** (2026)<br>**Sheng Wan**, Pavan Vynatheya, Duo Xu, Kevin Li, Ye Zhu<br>_NeurIPS 2026 Workshop: Sim2Science: ML with Imperfect Scientific Models_"
 
     Experience:
       - company: Shanghai Luoshu Investment
@@ -53,54 +42,48 @@ cv:
         start_date: 2026-06-01
         end_date: 2026-08-31
         highlights:
-          - "Volatility modeling & systematic options trading: built an end-to-end minute-level volatility research pipeline for commodity futures options, including IV calibration, Greeks estimation and volatility surface construction; developed and backtested delta-hedged straddle strategies driven by IV–RV signals."
-          - "Treasury cash-futures relative value: developed a framework mapping Chinese government bond futures to cash bond fair values through CTD, conversion factor, basis and implied-repo analytics; constructed duration/DV01-neutral relative-value signals across TS/TF/T/TL and cash bonds."
+          - "**Volatility Modeling & Systematic Options Trading**: Built an end-to-end minute-level volatility research pipeline for commodity futures options, including IV calibration, Greeks estimation, and volatility surface construction. Developed and backtested delta-hedged straddle strategies driven by IV–RV signals."
+          - "**Treasury Cash-Futures Relative Value**: Developed a Treasury cash-futures relative value framework that maps Chinese government bond futures to cash bond fair values through CTD, conversion factor, basis, and implied-repo analytics; constructed duration/DV01-neutral relative-value signals across TS/TF/T/TL and cash bonds to capture short-term pricing dislocations."
 
-      - company: Inria
+      - company: LISN, Université Paris-Saclay
         position: Research Intern
         location: Saclay, France
-        url: https://www.inria.fr/en/inria-saclay-centre
         start_date: 2025-07-01
         end_date: 2025-08-31
         highlights:
-          - "ANaGRAM for PINNs optimization: applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel (NTK), to improve the convergence speed and accuracy of Physics-Informed Neural Networks (PINNs)."
-          - "Adaptive collocation point selection: developed a collocation-embedding-guided adaptive sampling strategy for ANaGRAM, achieving faster convergence and higher accuracy during NTK-based projection."
+          - "**ANaGRAM for PINNs Optimization**: Applied ANaGRAM, an adaptive natural-gradient method based on the Neural Tangent Kernel (NTK), to improve the convergence speed and accuracy of Physics-Informed Neural Networks (PINNs)."
+          - "**Adaptive Collocation Point Selection**: Developed a collocation-embedding-guided adaptive sampling strategy for ANaGRAM, improving collocation point selection and achieving faster convergence and higher accuracy during NTK-based projection."
 
-      - company: A.O. Smith
+      - company: A.O.Smith
         position: Software Developer Intern
         location: Nanjing, China
         start_date: 2023-07-01
         end_date: 2023-08-31
         highlights:
-          - "IoT data platform: built a real-time MQTT-based IoT data pipeline using Java Spring, with configurable processing through reflection and concurrency-safe operations via Redis distributed locks."
-          - "Database optimization: resolved SQL pagination issues and optimized queries, improving data retrieval reliability and performance."
+          - "**IoT Data Platform Development**: Built a real-time MQTT-based IoT data pipeline using Java Spring, enabling configurable data processing through reflection and ensuring concurrency-safe operations with Redis distributed locks."
+          - "**Database Optimization**: Resolved SQL pagination issues and optimized database queries, improving data retrieval reliability and query performance."
 
     Awards:
       - title: China Collegiate Programming Contest (CCPC), Shanghai Region
         awarder: Silver Prize
-        authors:
-          - "Silver Prize"
         date: 2022
 
       - title: National Olympiad in Mathematics in Provinces, Jiangsu
         awarder: Second Prize
-        authors:
-          - "Second Prize"
         date: 2021
 
       - title: National Olympiad in Physics in Provinces, Jiangsu
         awarder: Second Prize
-        authors:
-          - "Second Prize"
         date: 2021
 
       - title: National Olympiad in Informatics in Provinces (NOIP), Jiangsu
         awarder: First Prize
-        authors:
-          - "First Prize"
         date: 2020
 
     Skills:
+      - name: Languages
+        keywords: "Chinese (Native), English (C1), French (C1)"
+
       - name: Programming
         keywords: "Python, C++, Java, SQL"
 
@@ -109,13 +92,3 @@ cv:
 
       - name: Tools
         keywords: "Git, Linux, LaTeX"
-
-    Languages:
-      - name: Chinese
-        summary: "Native"
-
-      - name: English
-        summary: "C1"
-
-      - name: French
-        summary: "C1"
