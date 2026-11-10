@@ -26,7 +26,7 @@ latest_posts:
 
 在学习之余，我也通过实习积累了业界与科研经验。在上海洛书投资担任量化研究实习生期间，我从事商品期权波动率建模和中国国债相关的研究。在此之前，我在 [LISN](https://www.universite-paris-saclay.fr/laboratoires/laboratoire-interdisciplinaire-des-sciences-du-numerique-lisn) 实验室（隶属于巴黎萨克雷大学与 Inria）担任科研实习生，将基于神经正切核的自适应自然梯度方法 ANaGRAM 应用于物理信息神经网络（PINNs）的训练。
 
-我会说中文、英语和法语，欢迎通过邮件与我联系。你也可以查看我的[中文简历]({{ '/zh/cv/' | relative_url }})，或切换到 [English version]({{ '/' | relative_url }})。
+我会说中文、英语和法语，欢迎通过邮件与我联系。你也可以查看我的[中文简历]({{ '/zh/resume/' | relative_url }})，或切换到 [English version]({{ '/' | relative_url }})。
 
 <h2>动态</h2>
 

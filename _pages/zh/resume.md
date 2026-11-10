@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 简历
-permalink: /zh/cv/
+permalink: /zh/resume/
 nav: false
 description:
 ---
