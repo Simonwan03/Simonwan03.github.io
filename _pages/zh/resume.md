@@ -9,6 +9,12 @@ lang_alt: /cv/
 nav_order: 5
 ---
 
+<style>
+  .post article strong {
+    font-weight: 700;
+  }
+</style>
+
 [下载 PDF 版简历]({{ '/assets/pdf/Sheng_Wan_CV_zh.pdf' | relative_url }})
 
 ## 教育背景

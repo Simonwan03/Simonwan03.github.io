@@ -8,6 +8,12 @@ description:
 lang_alt: /zh/resume/
 ---
 
+<style>
+  .post article strong {
+    font-weight: 700;
+  }
+</style>
+
 [Download CV as PDF]({{ '/assets/pdf/Sheng_Wan_CV.pdf' | relative_url }})
 
 ## Education
