@@ -1,12 +1,15 @@
 ---
 layout: page
-title: 万晟 · 简历
+title: 简历
 permalink: /zh/resume/
-nav: false
-description:
+nav: true
+description: 万晟（Sheng Wan）
+lang: zh
+lang_alt: /cv/
+nav_order: 5
 ---
 
-[下载 PDF 版简历]({{ '/assets/pdf/Sheng_Wan_CV_zh.pdf' | relative_url }}) · [English CV]({{ '/cv/' | relative_url }}) · [返回中文主页]({{ '/zh/' | relative_url }})
+[下载 PDF 版简历]({{ '/assets/pdf/Sheng_Wan_CV_zh.pdf' | relative_url }})
 
 ## 教育背景
 

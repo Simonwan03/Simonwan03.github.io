@@ -1,9 +1,8 @@
 ---
 layout: about
-title: 中文
+title: 主页
 permalink: /zh/
-nav: true
-nav_order: 6
+nav: false
 
 profile:
   align: right
@@ -18,6 +17,8 @@ announcements:
 
 latest_posts:
   enabled: false
+lang: zh
+lang_alt: /
 ---
 
 我是万晟（Sheng Wan），目前就读于[巴黎综合理工学院](https://www.polytechnique.edu/)（École Polytechnique），攻读工程师学位（硕士层次），主修人工智能方向；同时在[上海交通大学](https://www.sjtu.edu.cn/)攻读计算机科学双学位硕士。此前，我在上海交通大学获得学士学位。
@@ -26,7 +27,7 @@ latest_posts:
 
 在学习之余，我也通过实习积累了业界与科研经验。在上海洛书投资担任量化研究实习生期间，我从事商品期权波动率建模和中国国债相关的研究。在此之前，我在 [LISN](https://www.universite-paris-saclay.fr/laboratoires/laboratoire-interdisciplinaire-des-sciences-du-numerique-lisn) 实验室（隶属于巴黎萨克雷大学与 Inria）担任科研实习生，将基于神经正切核的自适应自然梯度方法 ANaGRAM 应用于物理信息神经网络（PINNs）的训练。
 
-我会说中文、英语和法语，欢迎通过邮件与我联系。你也可以查看我的[中文简历]({{ '/zh/resume/' | relative_url }})，或切换到 [English version]({{ '/' | relative_url }})。
+我会说中文、英语和法语，欢迎通过邮件与我联系。
 
 <h2>动态</h2>
 
@@ -53,7 +54,7 @@ latest_posts:
 </div>
 
 <h2>
-  <a href="{{ '/research/' | relative_url }}" style="color: inherit">研究</a>
+  <a href="{{ '/zh/research/' | relative_url }}" style="color: inherit">研究</a>
 </h2>
 
 {% include selected_papers.liquid %}

@@ -9,4 +9,5 @@ cv_format: rendercv # options: rendercv, jsonresume
 description:
 toc:
   sidebar: left
+lang_alt: /zh/resume/
 ---

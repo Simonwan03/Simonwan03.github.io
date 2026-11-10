@@ -18,6 +18,7 @@ announcements:
 
 latest_posts:
   enabled: false
+lang_alt: /zh/
 ---
 
 I am an engineering student at [École Polytechnique](https://www.polytechnique.edu/), where I am pursuing the Diplôme d'Ingénieur (Master's level) with a major in Artificial Intelligence. In parallel, I am pursuing a dual Master's degree in Computer Science at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). Previously, I received my bachelor's degrees from Shanghai Jiao Tong University.
