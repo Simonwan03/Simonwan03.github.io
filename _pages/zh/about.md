@@ -20,7 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-我目前就读于[巴黎综合理工学院](https://www.polytechnique.edu/)（École Polytechnique），攻读工程师学位（硕士层次），主修人工智能方向；同时在[上海交通大学](https://www.sjtu.edu.cn/)攻读计算机科学双学位硕士。此前，我在上海交通大学获得学士学位。
+我是万晟（Sheng Wan），目前就读于[巴黎综合理工学院](https://www.polytechnique.edu/)（École Polytechnique），攻读工程师学位（硕士层次），主修人工智能方向；同时在[上海交通大学](https://www.sjtu.edu.cn/)攻读计算机科学双学位硕士。此前，我在上海交通大学获得学士学位。
 
 我近期的研究方向是**推荐系统**与 **AI for Science**，导师为 [Guillaume Salha-Galvan](https://guillaumesalhagalvan.com/) 教授（上海交通大学）和 [Ye Zhu](https://l-yezhu.github.io/) 教授（巴黎综合理工学院）。
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历
+title: 万晟 · 简历
 permalink: /zh/resume/
 nav: false
 description:
